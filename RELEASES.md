@@ -79,11 +79,12 @@ Built with [OpenAI Whisper](https://github.com/openai/whisper) and Adobe CEP fra
 
 ### 📄 License
 
-MIT License — See LICENSE file for details
+MIT License — See [LICENSE](LICENSE) file for details
 
 ### 🔗 Resources
 
-- [GitHub Repository](https://github.com/turbostudios26/titlebuzz)
+- [GitHub Repository](https://github.com/TurboStudios26/titlebuzz)
+- [Report Issues](https://github.com/TurboStudios26/TitleBuzz/Issues)
 - [OpenAI Whisper](https://github.com/openai/whisper)
 
 ---

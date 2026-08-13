@@ -41,6 +41,24 @@
 - ✅ Comprehensive error handling
 - ✅ MIT License
 
+### Languages added in this update
+
+- Bangla
+- English
+- Hindi
+- Urdu
+- Arabic
+- Spanish
+- French
+- German
+- Italian
+- Japanese
+- Korean
+- Portuguese
+- Russian
+- Chinese
+- Esperanto
+
 ### 🔧 Installation
 
 1. Install Python dependencies:

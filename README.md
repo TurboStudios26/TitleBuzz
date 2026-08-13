@@ -23,6 +23,23 @@ License: **MIT**
 - Cancel button
 - Friendly error/status UI
 
+## Supported language 
+- Bangla
+- English
+- Hindi
+- Urdu
+- Arabic
+- Spanish
+- French
+- German
+- Italian
+- Japanese
+- Korean
+- Portuguese
+- Russian
+- Chinese
+- Esperanto
+
 ## 1. Install Python dependencies
 
 Use a supported Python installation and run:

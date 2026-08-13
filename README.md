@@ -1,5 +1,7 @@
 # TitleBuzz
 
+![Logo](icons/icon.png)
+
 **TitleBuzz** is a local, open-source Whisper-powered transcription panel for **Adobe Premiere Pro 2023 (23.x)**.
 
 > **Note:** This is an open source project. All contributions, feedback, and improvements are welcome.

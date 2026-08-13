@@ -83,8 +83,8 @@ MIT License — See [LICENSE](LICENSE) file for details
 
 ### 🔗 Resources
 
-- [GitHub Repository](https://github.com/TurboStudios26/titlebuzz)
-- [Report Issues](https://github.com/TurboStudios26/TitleBuzz/Issues)
+- [GitHub Repository](https://github.com/TurboStudios26/TitleBuzz)
+- [Report Issues](https://github.com/TurboStudios26/TitleBuzz/issues)
 - [OpenAI Whisper](https://github.com/openai/whisper)
 
 ---

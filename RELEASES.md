@@ -29,7 +29,6 @@
 - **FFmpeg** (for audio/video decoding)
 - **Dependencies** (see `requirements.txt`):
   - openai-whisper
-  - pydub
 
 ### 🚀 What's New in 1.0.0
 
@@ -39,7 +38,6 @@
 - ✅ Support for Whisper model variants
 - ✅ SRT export for subtitle workflows
 - ✅ Comprehensive error handling
-- ✅ MIT License
 
 ### Languages added in this update
 
